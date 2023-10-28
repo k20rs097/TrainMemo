@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+.header {
+    position: fixed;
+    width: 100vw;
+    height: 50px;
+    margin-bottom: 20px;
+    background-color: #ffffffb3;
+    border-bottom: 1px solid #c9c9c9;
+}
+.title--sacramento {
+    font-family: 'Sancramento', cursive;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 20px 20px;
+    color: #27201b;
+}
